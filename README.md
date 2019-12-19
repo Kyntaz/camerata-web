@@ -1,2 +1,2 @@
 # camerata-web
-Website for Camerata
+Website for Camerata Appassionata
