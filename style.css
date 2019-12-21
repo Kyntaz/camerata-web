@@ -201,3 +201,7 @@ a:hover {
 .photos-c img {
     width: 80vw;
 }
+
+.invert-color{
+    filter: invert(100%);
+}
