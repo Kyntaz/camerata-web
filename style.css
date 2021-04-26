@@ -214,8 +214,11 @@ a:hover {
 }
 
 .faq-item {
+    display: flex;
     width: 70%;
     margin: 20px;
+    flex-direction: row;
+    align-items: baseline;
 }
 
 .faq-item_right {
@@ -224,35 +227,27 @@ a:hover {
 
 .faq-question {
     font-weight: bold;
-    font-size: 15pt;
 }
 
 .faq-number {
+    flex-shrink: 0;
     font-family: 'Montez', cursive;
-    font-size: 50pt;
-    border-width: 5px;
+    font-size: 15pt;
+    border-width: 2px;
     border-color: black;
     border-style: solid;
     border-radius: 50%;
     text-align: center;
-    width: 80px;
-    height: 80px;
-    line-height: 80px;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
     margin-right: 20px;
     margin-left: 20px;
-}
-
-.faq-number_left {
-    float: left;
-}
-
-.faq-number_right {
-    float: right;
+    font-weight: bold;
 }
 
 .faq-tldr {
     font-weight: bold;
-    font-size: 15pt;
 }
 
 .signature {
