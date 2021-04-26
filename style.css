@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
 }
 
 h1, h2, h3 {
@@ -253,4 +253,14 @@ a:hover {
 .faq-tldr {
     font-weight: bold;
     font-size: 15pt;
+}
+
+.signature {
+    font-size: 8pt;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+.sign_heart {
+    color: red;
 }
