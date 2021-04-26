@@ -202,6 +202,55 @@ a:hover {
     width: 80vw;
 }
 
-.invert-color{
+.invert-color {
     filter: invert(100%);
+}
+
+.faq-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.faq-item {
+    width: 70%;
+    margin: 20px;
+}
+
+.faq-item_right {
+    text-align: right;
+}
+
+.faq-question {
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+.faq-number {
+    font-family: 'Montez', cursive;
+    font-size: 50pt;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 50%;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.faq-number_left {
+    float: left;
+}
+
+.faq-number_right {
+    float: right;
+}
+
+.faq-tldr {
+    font-weight: bold;
+    font-size: 15pt;
 }
