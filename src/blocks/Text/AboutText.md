@@ -1,0 +1,7 @@
+Bem-vindos ao site da Camerata Appassionata! Somos um grupo de amigos unidos pela mesma paixão pela música. Tendo estudado, tocado e cantado em diferentes escolas e orquestras, sempre sentimos que uma das coisas mais valiosas que a música nos pode dar é a possibilidade de partilhar com os outros a alegria e felicidade que sentimos quando tocamos e cantamos. Foi exatamente desta vontade de partilha que a Camerata Appassionata nasceu!
+
+Estando disponíveis para nos deslocarmos a vários pontos do país, tocamos em variados eventos, tais como casamentos, batizados e cocktails, com o objetivo de tornar cada momento verdadeiramente especial! De forma a poder ir de encontro ao que idealizaram para o vosso evento, adoptamos diferentes composições, desde coro para cerimónia de casamento ou batizado, como ensemble de cordas e oboé ou ainda banda, com bateria, guitarra elétrica, baixo e teclado. Assim, procuramos que o nosso contributo seja verdadeiramente especial e que satisfaça todas as vossas expectativas!
+
+Estamos completamente disponíveis para esclarecer qualquer questão sobre músicas, instrumentos, orçamentos ou qualquer outra dúvida ou curiosidade que possam ter. Para tal, podem contactar-nos através deste site, do nosso e-mail ou através do Facebook e Instagram. Aguardamos o vosso contacto!
+
+Esperamos podermo-nos encontrar num futuro próximo! A Camerata Appassionata vai certamente ajudar-vos a tornar o vosso evento verdadeiramente especial!

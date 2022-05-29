@@ -1,0 +1,22 @@
+{
+  "name": "camerata-web",
+  "version": "1.0.0",
+  "description": "Camerata Appassionata's website",
+  "scripts": {
+    "build": "passione -i src build",
+    "serve": "http-server ./build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyntaz/camerata-web.git"
+  },
+  "author": "Pedro Quintas",
+  "bugs": {
+    "url": "https://github.com/Kyntaz/camerata-web/issues"
+  },
+  "homepage": "https://github.com/Kyntaz/camerata-web#readme",
+  "devDependencies": {
+    "http-server": "14.1.0",
+    "passione": "https://github.com/Kyntaz/passione-js/releases/download/v1.1.0/passione-1.1.0.tgz"
+  }
+}
