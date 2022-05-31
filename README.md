@@ -11,4 +11,5 @@ Visit the website at http://cappassionata.pt/
 ```bash
 npm run build # Build the website on the build folder
 npm run serve # Serve the website from the build folder
+npm run deploy # Deploy the committed build of the site
 ```
