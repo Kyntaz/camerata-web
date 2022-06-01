@@ -4,8 +4,7 @@
   "description": "Camerata Appassionata's website",
   "scripts": {
     "build": "passione -i src build",
-    "serve": "http-server ./build",
-    "deploy": "git subtree push --prefix build origin www"
+    "serve": "http-server ./build"
   },
   "repository": {
     "type": "git",
