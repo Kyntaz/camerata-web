@@ -2,9 +2,11 @@
   "name": "camerata-web",
   "version": "1.0.0",
   "description": "Camerata Appassionata's website",
+  "type": "module",
   "scripts": {
     "build": "passione -i src build",
-    "serve": "http-server ./build"
+    "serve": "http-server ./build",
+    "deploy": "ts-node ./scripts/Deploy.ts"
   },
   "repository": {
     "type": "git",
@@ -16,7 +18,11 @@
   },
   "homepage": "https://github.com/Kyntaz/camerata-web#readme",
   "devDependencies": {
+    "@types/read": "^0.0.29",
+    "basic-ftp": "4.6.6",
     "http-server": "14.1.0",
-    "passione": "https://github.com/Kyntaz/passione-js/releases/download/v1.1.0/passione-1.1.0.tgz"
+    "passione": "https://github.com/Kyntaz/passione-js/releases/download/v1.1.0/passione-1.1.0.tgz",
+    "read": "^1.0.7",
+    "ts-node": "^10.8.1"
   }
 }
