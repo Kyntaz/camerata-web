@@ -1,0 +1,34 @@
+.faq-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.faq-item {
+    display: flex;
+    width: 70%;
+    margin: 20px;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.faq-number {
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+    img {
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -38%);
+    }
+}

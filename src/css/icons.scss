@@ -1,0 +1,13 @@
+.icons {
+    img {
+        margin: 10px;
+        max-height: 50px;
+        max-width: 50px;
+        width: 5vw;
+        height: 5vw;
+    }
+
+    img:hover {
+        filter: invert(100%);
+    }
+}

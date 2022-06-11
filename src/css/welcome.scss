@@ -1,0 +1,20 @@
+.welcome-section {
+    background-image: url(img/photo2.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 55vw; 
+    text-align: center;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0 , .32),
+                -5px 10px 10px rgba(0, 0, 0 , .32);
+}
+
+.main-name {
+    filter: invert(100%);
+    width: 80%;
+}
+
+@media only screen and (min-device-width: 600px) {
+    .welcome-section {
+        background-attachment: fixed;
+    }
+}

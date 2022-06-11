@@ -1,0 +1,37 @@
+.space-above {
+    margin-top: 100px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.flex-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.circle-image {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.dark-color {
+    background-color: #dedaee;
+}
+
+.large-i {
+    font-size: 2em;
+    vertical-align: middle;
+}
+
+.invert-color {
+    filter: invert(100%);
+}
