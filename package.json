@@ -4,9 +4,11 @@
   "description": "Camerata Appassionata's website",
   "type": "module",
   "scripts": {
-    "build": "passione -i src build",
-    "serve": "http-server ./build",
-    "deploy": "ts-node ./scripts/Deploy.ts"
+    "build:passione": "npx passione -i src build",
+    "build:css": "npx sass src/css/style.scss build/style.css",
+    "build": "npm run build:passione & npm run build:css",
+    "serve": "npx http-server ./build",
+    "deploy": "npx ts-node ./scripts/Deploy.ts"
   },
   "repository": {
     "type": "git",
@@ -18,11 +20,12 @@
   },
   "homepage": "https://github.com/Kyntaz/camerata-web#readme",
   "devDependencies": {
-    "@types/read": "^0.0.29",
+    "@types/read": "0.0.29",
     "basic-ftp": "4.6.6",
     "http-server": "14.1.0",
     "passione": "https://github.com/Kyntaz/passione-js/releases/download/v1.2.0/passione-1.2.0.tgz",
-    "read": "^1.0.7",
-    "ts-node": "^10.8.1"
+    "read": "1.0.7",
+    "sass": "1.52.3",
+    "ts-node": "10.8.1"
   }
 }
